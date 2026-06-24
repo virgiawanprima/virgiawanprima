@@ -2,9 +2,11 @@
 
 **Data Engineering · Machine Learning Engineering**
 
-I'm a results-driven **Data Engineer** with a focus on building robust, scalable data infrastructure that powers reliable analytics and machine learning systems. My expertise spans designing and maintaining ETL/ELT pipelines, architecting Lakehouse solutions on GCP, and orchestrating complex workflows across batch and streaming paradigms.
+I'm a **Data Engineer and ML Engineer** with a focus on building end-to-end data systems — from raw ingestion to model deployment. On the data engineering side, my work spans designing ETL/ELT pipelines, architecting Lakehouse solutions on GCP, and orchestrating batch and streaming workflows with reliability and observability in mind.
 
-I specialize in transforming raw, unstructured data into clean, well-modeled datasets ready for downstream consumption — whether by ML pipelines, or analytical teams. With a strong foundation in cloud-native data engineering and a detail-oriented approach to pipeline reliability, data quality, and observability, I help organizations build data platforms that scale.
+On the machine learning side, I focus on taking clean, well-modeled data across the finish line — training and evaluating models, managing experiments, and deploying production-ready inference services with proper monitoring and drift detection. I care as much about what happens after a model is trained as the training itself.
+
+The overlap between these two disciplines is where I work best: building the infrastructure that makes ML systems reproducible, scalable, and trustworthy in production.
 
 [![Mail Badge](https://img.shields.io/badge/-virgiawanprimarizky@gmail.com-dc2626?style=flat&labelColor=dc2626&logo=gmail&logoColor=white)](mailto:virgiawanprimarizky@gmail.com)
 [![Upwork Badge](https://img.shields.io/badge/-Upwork-14a800?style=flat&labelColor=14a800&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01e10c9585e12d4ce1)
@@ -44,7 +46,7 @@ I specialize in transforming raw, unstructured data into clean, well-modeled dat
 ---
 
 ### Machine Learning Engineering Stack
-*MLOps End-to-End · Model Training · Deployment · Monitoring*
+*Model Training · Experiment Tracking · Deployment · Monitoring*
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -52,11 +54,10 @@ I specialize in transforming raw, unstructured data into clean, well-modeled dat
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-FF9F00?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-7B42BC?style=for-the-badge&logo=xgboost&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
 | Layer | Tools |
@@ -64,9 +65,8 @@ I specialize in transforming raw, unstructured data into clean, well-modeled dat
 | **Languages** | Python · SQL (feature engineering via BigQuery) |
 | **Frameworks** | TensorFlow/Keras · PyTorch · Scikit-learn · XGBoost · LightGBM · Hugging Face |
 | **Feature Handling** | BigQuery + Pandas/Polars · Vertex AI Feature Store · Feast |
-| **MLOps Platform** | Vertex AI (Training · Pipelines · Serving · AutoML · Model Monitoring) |
 | **Experiment Tracking** | Vertex AI Experiments · MLflow |
-| **Pipelines** | Vertex AI Pipelines (Kubeflow/TFX) · Cloud Composer |
+| **Training & Pipelines** | Vertex AI Training · Vertex AI Pipelines (Kubeflow/TFX) · Cloud Composer |
 | **Serving** | Vertex AI Prediction · Cloud Run · GKE |
 | **Containerization** | Docker · Artifact Registry |
 | **LLMOps** | Vertex AI + Gemini · LangChain · Vertex AI Vector Search |
