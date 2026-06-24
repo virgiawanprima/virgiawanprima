@@ -4,7 +4,7 @@
 
 I'm a results-driven **Data Engineer** with a focus on building robust, scalable data infrastructure that powers reliable analytics and machine learning systems. My expertise spans designing and maintaining ETL/ELT pipelines, architecting Lakehouse solutions on GCP, and orchestrating complex workflows across batch and streaming paradigms.
 
-I specialize in transforming raw, unstructured data into clean, well-modeled datasets ready for downstream consumption — whether by BI tools, ML pipelines, or analytical teams. With a strong foundation in cloud-native data engineering and a detail-oriented approach to pipeline reliability, data quality, and observability, I help organizations build data platforms that scale.
+I specialize in transforming raw, unstructured data into clean, well-modeled datasets ready for downstream consumption — whether by ML pipelines, or analytical teams. With a strong foundation in cloud-native data engineering and a detail-oriented approach to pipeline reliability, data quality, and observability, I help organizations build data platforms that scale.
 
 [![Mail Badge](https://img.shields.io/badge/-virgiawanprimarizky@gmail.com-dc2626?style=flat&labelColor=dc2626&logo=gmail&logoColor=white)](mailto:virgiawanprimarizky@gmail.com)
 [![Upwork Badge](https://img.shields.io/badge/-Upwork-14a800?style=flat&labelColor=14a800&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01e10c9585e12d4ce1)
