@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=150&text=Hi,%20I'm%20Virgiawan%20Prima%20Rizky&fontSize=42&fontColor=38bdf8&fontAlignY=45&animation=twinkling&desc=Data%20Engineering%20%26%20Machine%20Learning%20Engineering&descSize=21&descAlignY=85&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f172a,100:1e3a8a&amp;height=150&amp;text=Hi,%20I'm%20Virgiawan%20Prima%20Rizky&amp;fontSize=42&amp;fontColor=38bdf8&amp;fontAlignY=45&amp;animation=twinkling&amp;desc=Data%20Engineering%20%26%20Machine%20Learning%20Engineering&amp;descSize=21&amp;descAlignY=85&amp;section=header" />
 
 I'm **Virgiawan Prima Rizky**, an Informatics Engineering student at **Politeknik Negeri Samarinda** specializing in **Data Engineering (DE)** and **Machine Learning Engineering (MLE)**.
 
@@ -56,4 +56,4 @@ I prioritize pipeline reliability, data quality, reproducibility, and scalable i
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=virgiawanprima&theme=tokyonight&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=virgiawanprima&card_width=495&langs_count=7&layout=compact&theme=tokyonight)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f172a,100:1e3a8a&amp;height=100&amp;section=footer" />
